@@ -1,8 +1,14 @@
 <h1>Hi, I'm Krystallia! <br/><a href="https://github.com/Krystalliaa">Programmer</a>, <a href="https://www.linkedin.com/in/krystallia-nikoli/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
-- <b>PowerShell </b>
-  - <b><a href="https://github.com/Krystalliaa/AD_PS"> [Active Directory Bulk User Creation]</a></b>
+<li> <b>PowerShell </b> </li>
+  <b><a href="https://github.com/Krystalliaa/AD_PS"> [Active Directory Bulk User Creation]</a></b>
+
+
+
+
+
+
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
