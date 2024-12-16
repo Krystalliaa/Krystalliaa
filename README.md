@@ -15,8 +15,9 @@
 
 
 
-[instagram]: https://www.instagram.com/krystalliaaa/
-[linkedin]: https://www.linkedin.com/in/krystallia-nikoli/
+<b><a href="https://www.instagram.com/krystalliaaa/"> [instagram]</a></b>
+
+<b><a href="https://www.linkedin.com/in/krystallia-nikoli/"> [linkedin]</a></b>
 
 <!--
 **Krystalliaa/Krystalliaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
