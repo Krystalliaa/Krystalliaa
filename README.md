@@ -1,4 +1,4 @@
-<h1>Hi, I'm Krystallia! <br/><a href="https://github.com/Krystalliaa">Programmer</a>, <a href="https://www.linkedin.com/in/krystallia-nikoli/">Cybersecurity Professional</a>
+<h1>Hi, I'm Krystallia! <br/> <a href="https://www.linkedin.com/in/krystallia-nikoli/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 <li> <b>PowerShell </b> </li>
