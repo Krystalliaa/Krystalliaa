@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 <li> <b>Active Directory</b> </li>
 <b><a href="https://github.com/Krystalliaa/AD_PS"> [Active Directory Bulk User Creation]</a></b>
-<p> <b><a href="https://github.com/Krystalliaa/ActiveDirectoryLab"> [Active Directory Bulk User Creation]</a></b></p>
+<p> <b><a href="https://github.com/Krystalliaa/ActiveDirectoryLab"> [Active Directory, Sysmon, Splunk, and Brute-Force Simulation Lab]</a></b></p>
 
 
 
