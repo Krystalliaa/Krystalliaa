@@ -1,7 +1,6 @@
 <h1>Hi, I'm Krystallia! <br/> <a href="https://www.linkedin.com/in/krystallia-nikoli/">Cybersecurity Professional</a>
 <h2> I just finished the Google Cybersecurity Certificate!!</h2>
-
-  <img src="https://github.com/Krystalliaa/google-cybersecurity/tree/73aa46c3a47d2dad4532d9addaa3552a15a62cbc/General/Certificate.png" width="300" height="200">
+<img src="/Certificate.png" alt="Certificate" width="300" height="200">
 <h2>👨‍💻 Cyber Security Projects:</h2>
 <li> <b>Active Directory</b> </li>
 <b><a href="https://github.com/Krystalliaa/AD_PS"> [Active Directory Bulk User Creation]</a></b>
