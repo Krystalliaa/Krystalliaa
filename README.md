@@ -6,7 +6,7 @@
 <p><b><a href="https://github.com/Krystalliaa/AD_PS"> [Active Directory Bulk User Creation]</a></b></p>
 <p> <b><a href="https://github.com/Krystalliaa/ActiveDirectoryLab"> [Active Directory, Sysmon, Splunk, and Brute-Force Simulation Lab]</a></b></p>
 <li><b>SOC Automation Project</b></li>
-<p><b><a href="https://github.com/Krystalliaa/SOC-Automation-Project"> [SOC Automation Project Including Thehive, Wazuh, Sysmon, Shuffle]</a></b></p>
+<p><b><a href="https://github.com/Krystalliaa/SOC-Automation-Project"> [SOC Automation Project Including Thehive (elasticSearch, Cassandra) , Wazuh, Sysmon, Shuffle]</a></b></p>
 
 
 
