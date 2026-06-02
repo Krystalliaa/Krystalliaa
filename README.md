@@ -8,6 +8,9 @@
 <li><b>SOC Automation Project</b></li>
 <p><b><a href="https://github.com/Krystalliaa/SOC-Automation-Project"> [SOC Automation Project Including Thehive (ElasticSearch, Cassandra) , Wazuh, Sysmon, Shuffle]</a></b></p>
 
+API Observability & Monitoring Homelab
+<p><b><a href="https://https://github.com/Krystalliaa/api-observability-homelab"> [API Observability & Monitoring Homelab with Docker, Prometheus, Grafana, Blackbox Exporter]</a></b></p>
+
 
 
 
