@@ -138,9 +138,9 @@ This repository represents a real-world IT & Cloud engineering portfolio combini
 
 ## Contact
 
-- LinkedIn: [Add here]
-- Email: [Add here]
-- GitHub: [Your profile link]
+- Email: kristallia.niko@gmail.com
+- <a href="https://www.linkedin.com/in/krystallia-nikoli"> [LinkedIn] </a>
+- <a href="https://github.com/Krystalliaa"> [Github] </a>
 <!--
 **Krystalliaa/Krystalliaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
