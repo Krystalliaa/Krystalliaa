@@ -87,7 +87,7 @@ Incident response automation • Alert enrichment • SOC workflows
 ---
 
 ### 📊 API Observability & Monitoring Lab
-<p><b><a href="https://https://github.com/Krystalliaa/api-observability-homelab"> [API Observability & Monitoring Homelab with Docker, Prometheus, Grafana, Blackbox Exporter]</a></b></p>
+<p><b><a href="https://github.com/Krystalliaa/api-observability-homelab"> [API Observability & Monitoring Homelab with Docker, Prometheus, Grafana, Blackbox Exporter]</a></b></p>
 Infrastructure monitoring and observability stack for system health tracking.
 
 **Includes:**
